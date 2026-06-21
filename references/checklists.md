@@ -38,6 +38,16 @@ Use este arquivo para validação editorial, narrativa, textual, memória e audi
 - Sinais de alerta acompanhados.
 - Continuidade validada depois da mudança.
 
+## Conformidade Da Entrega
+
+- Pedido real identificado antes de produzir.
+- Formato solicitado preservado: filme continua filme, série continua série, roteiro continua roteiro, plano continua plano.
+- Mudança de formato autorizada pelo usuário ou perguntada antes da execução.
+- Entrega final corresponde ao tipo pedido, não apenas a uma etapa preparatória.
+- Títulos, subtítulos, corpo e diálogos estão em PT-BR com acentuação.
+- Plano, execução e registro de continuidade não se contradizem.
+- Próximos passos não substituem o que já foi pedido como entrega principal.
+
 ## Conto
 
 - Unidade de efeito.
@@ -125,6 +135,7 @@ Use este arquivo para validação editorial, narrativa, textual, memória e audi
 - Regras internas.
 - Promessas abertas.
 - Decisões registradas.
+- Plano e entrega final preservam as mesmas decisões, salvo alteração registrada.
 
 ## Anti-Clichê
 

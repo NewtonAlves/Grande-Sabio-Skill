@@ -30,6 +30,17 @@ Toda cena deve ter, salvo escolha consciente:
 5. Checar ritmo de tensão e alívio.
 6. Checar se o final paga as promessas essenciais.
 
+## Formato E Entrega Narrativa
+
+Tratar formato como parte do pedido. Filme, série, conto, capítulo, roteiro dialogado, pacote criativo e plano são entregas diferentes.
+
+- Se o usuário pedir filme, não transformar em piloto de série sem perguntar.
+- Se o usuário pedir roteiro, entregar roteiro ou trecho roteirizado, não apenas sinopse, mapa de cenas ou pacote criativo.
+- Se faltar mídia, extensão ou nível de detalhe e isso mudar a entrega, perguntar antes de executar.
+- Se o usuário pedir criação livre, assumir decisões criativas menores e registrar a escolha.
+
+Ao criar plano e depois executar, preservar decisões essenciais entre os dois. Não trocar personagem, cenário, densidade da cena, formato ou acontecimento central sem indicar a alteração e o motivo.
+
 ## Revisão Em Cascata Para Obra Longa
 
 Use quando a mudança afetar tema, motivação, ordem de cenas, clímax, regra de mundo, relação central ou voz do narrador.
