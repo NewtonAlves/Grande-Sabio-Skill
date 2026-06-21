@@ -41,6 +41,26 @@ Perguntar:
 3. O personagem faz uma escolha observável?
 4. A cena muda a relação, a informação, o risco ou o desejo?
 
+## Teste De Função Antes Da Forma
+
+Use quando personagem, lugar, poder, mentor, vilão, profecia, facção ou reviravolta parecerem clichê.
+
+Antes de trocar a aparência do elemento, descobrir a função:
+
+- Que problema narrativo ele resolve?
+- Que informação ele entrega?
+- Que pressão ou consequência ele cria?
+- Ele existe apenas para servir o protagonista?
+- Ele teria objetivo próprio se o protagonista não existisse?
+
+Para renovar sem artificialidade, mudar pelo menos uma destas camadas:
+
+- Conhecimento: o elemento não entende toda a trama nem age como se soubesse estar na história.
+- Objetivo: ele quer algo próprio, que colide com a jornada principal.
+- Papel: ele deixa de orbitar o protagonista e passa a ter lógica independente.
+
+Evitar inversão automática. O oposto de um clichê costuma ser outro clichê. Priorizar função, consequência e encaixe na obra.
+
 ## Anti-Clichês
 
 Evitar:

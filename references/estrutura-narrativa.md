@@ -30,6 +30,38 @@ Toda cena deve ter, salvo escolha consciente:
 5. Checar ritmo de tensão e alívio.
 6. Checar se o final paga as promessas essenciais.
 
+## Revisão Em Cascata Para Obra Longa
+
+Use quando a mudança afetar tema, motivação, ordem de cenas, clímax, regra de mundo, relação central ou voz do narrador.
+
+Antes de reescrever:
+
+1. Classificar a mudança: conceitual, estrutural, personagem ou prosa.
+2. Mapear impacto imediato, médio e global.
+3. Listar cenas, personagens, promessas e arquivos de memória afetados.
+4. Fazer a menor mudança viável para testar a hipótese.
+5. Registrar tarefas derivadas antes de avançar.
+
+Sinais de alerta:
+
+- Personagem passa a agir contra histórico já estabelecido.
+- Cena posterior depende de uma versão antiga da história.
+- Ritmo quebra porque uma mudança removeu tensão, respiro ou consequência.
+- Tema vira discurso em vez de surgir de ação e escolha.
+- Final deixa de pagar promessa criada no começo.
+
+Se dois ou mais sinais aparecerem, parar e propor ajuste de rota antes de continuar a revisão.
+
+## Promessa De Gênero E Premissa
+
+Tratar fantasia, ficção científica, histórico, contemporâneo e urbano como cenário. A promessa narrativa é a experiência principal do leitor: aventura, mistério, horror, drama, humor, relacionamento, maravilhamento, suspense, questão social, ideia ou dinâmica de grupo.
+
+- Definir a experiência principal antes de expandir premissa.
+- Usar gênero secundário apenas para servir à experiência principal.
+- Fazer a abertura prometer o tipo real de leitura que a obra vai entregar.
+- Testar cenário, personagem e conflito perguntando: isto intensifica a experiência escolhida?
+- Se a premissa parecer genérica, definir desejo, obstáculo, consequência e desvio específico antes de criar mais lore.
+
 ## Entrega Recomendada
 
 ```markdown

@@ -20,6 +20,24 @@ Use este arquivo para validação editorial, narrativa, textual, memória e audi
 - Clímax conectado ao arco.
 - Fechamento das promessas essenciais.
 
+## Premissa E Gênero
+
+- Experiência principal do leitor definida.
+- Cenário não confundido com gênero.
+- Gênero secundário subordinado ao principal.
+- Abertura promete a leitura correta.
+- Personagem vulnerável ao tipo de experiência prometida.
+- Conflito intensifica a promessa, não a desvia.
+
+## Revisão Em Cascata
+
+- Nível da mudança identificado: conceito, estrutura, personagem ou prosa.
+- Impacto imediato, médio e global mapeado.
+- Cenas e arquivos de memória afetados listados.
+- Tarefas derivadas registradas.
+- Sinais de alerta acompanhados.
+- Continuidade validada depois da mudança.
+
 ## Conto
 
 - Unidade de efeito.
@@ -88,6 +106,16 @@ Use este arquivo para validação editorial, narrativa, textual, memória e audi
 - Imagem concreta.
 - Abstração excessiva.
 - Tom.
+
+## Diagnóstico Fino De Prosa
+
+- Prosa plana.
+- Prosa confusa.
+- Prosa ornamentada demais.
+- Prosa monótona.
+- Voz passiva sem intenção.
+- Voz inconsistente.
+- Frase irregular preservada quando funciona como escolha de voz.
 
 ## Coerência Narrativa
 

@@ -46,6 +46,19 @@ Ao terminar tarefa relevante:
 - `CONTINUITY_LOG.md`: contradições detectadas.
 - `SOURCES.md`: fontes externas consultadas.
 
+## Revisão Longa E Cascata
+
+Quando uma alteração puder afetar capítulos, arcos ou regras já estabelecidas, registrar:
+
+- `REVISION_NOTES.md`: mudança proposta, motivo, nível afetado e critério de sucesso.
+- `TODO.md`: tarefas derivadas que precisam ser revisadas depois.
+- `DECISIONS.md`: decisão aprovada que altera cânone, arco, tom ou estrutura.
+- `PENDING_DECISIONS.md`: decisão ainda aberta que pode travar continuação.
+- `CONTINUITY_LOG.md`: conflito criado ou risco de contradição.
+- `TIMELINE.md`, `CHARACTERS.md` ou `WORLD_BIBLE.md`: atualização específica quando a mudança alterar tempo, personagem ou mundo.
+
+Preferir registro curto e útil. A memória deve proteger continuidade, não virar burocracia.
+
 ## Sem Permissão De Escrita
 
 Entregar:

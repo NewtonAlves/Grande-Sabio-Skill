@@ -20,6 +20,19 @@ Não polir frase antes de resolver estrutura quando o problema for estrutural.
 4. Conferir se a revisão criou contradição.
 5. Atualizar notas de revisão se houver padrão recorrente.
 
+## Triagem De Linha E Estilo
+
+Quando o problema estiver no acabamento da frase, identificar o tipo antes de reescrever:
+
+- Clareza: o leitor entende sem reler?
+- Precisão: substantivos, verbos e imagens são específicos?
+- Ritmo: frases curtas, médias e longas aparecem com função?
+- Excesso: algum ornamento enfraquece a ação?
+- Voz: o trecho parece pertencer ao narrador, personagem e obra?
+- Intenção: a regra gramatical ou estilística está sendo aplicada como escolha, não como automatismo?
+
+Evitar revisão mecânica. Uma frase irregular pode ser correta se sustenta voz, tensão, oralidade ou ponto de vista.
+
 ## Problemas Comuns
 
 - Repetição involuntária.
