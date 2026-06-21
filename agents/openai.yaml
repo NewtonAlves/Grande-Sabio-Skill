@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grande Sabio"
+  short_description: "Equipe editorial narrativa em PT-BR"
+  default_prompt: "Use $grande-sabio para revisar, estruturar ou continuar minha obra em português brasileiro."

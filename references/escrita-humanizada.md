@@ -1,0 +1,56 @@
+# Escrita Humanizada
+
+Use este arquivo para reduzir aparência de texto artificial, genérico ou publicitário.
+
+## Sinais De Texto Genérico
+
+- Frases de efeito sem consequência concreta.
+- Abstrações repetidas: destino, jornada, sombras, segredos, verdade, equilíbrio.
+- Personagem sente algo, mas não escolhe nada.
+- Diálogo explica mundo, trauma ou regra sem atrito.
+- Parágrafos com cadência idêntica.
+- Cena sem mudança narrativa.
+
+## Intervenções
+
+- Trocar "ele estava triste" por gesto, decisão ou imagem específica.
+- Trocar exposição por conflito entre personagens.
+- Trocar explicação de mundo por consequência prática.
+- Trocar moral final por custo, perda, escolha ou descoberta.
+- Cortar frases que só anunciam importância.
+
+## Auditoria Anti-Genérica Obrigatória
+
+Antes de entregar criação literária original, testar seis eixos:
+
+1. Ideia: a premissa tem desvio próprio ou só combina fórmulas conhecidas?
+2. Voz: existe recorte de narrador, ritmo e observação específica?
+3. Humanidade: há gesto, contradição, erro, medo, desejo ou detalhe vivido?
+4. Cena: alguém quer algo, encontra obstáculo, age e termina em situação diferente?
+5. Clichê: há frase pronta, vilão genérico, resposta de trailer, mistério decorativo ou emoção explicada demais?
+6. Usabilidade: o público-alvo entenderia, continuaria lendo e teria curiosidade pelo próximo movimento?
+
+Se a resposta for fraca em qualquer eixo, revisar antes de entregar. Não mostrar essa auditoria por padrão; mostrar apenas quando o usuário pedir teste, diagnóstico ou parecer.
+
+## Teste De Concretude
+
+Perguntar:
+
+1. O leitor consegue ver, ouvir ou inferir algo específico?
+2. A frase poderia aparecer em mil histórias diferentes?
+3. O personagem faz uma escolha observável?
+4. A cena muda a relação, a informação, o risco ou o desejo?
+
+## Anti-Clichês
+
+Evitar:
+
+- "em um mundo onde"
+- "mal sabia ele que"
+- "uma jornada de autodescoberta"
+- "segredos antigos serão revelados"
+- "nada será como antes"
+- "o verdadeiro poder estava dentro dele"
+- "uma força sombria ameaça o equilíbrio"
+
+Substituir por: circunstância específica, conflito imediato, desejo concreto, obstáculo direto e consequência verificável.
