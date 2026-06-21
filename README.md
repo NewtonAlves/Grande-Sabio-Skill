@@ -24,7 +24,7 @@ O foco é Brasil. O idioma padrão é **português brasileiro**. A skill não us
 
 ## Instalação
 
-Quando o repositório estiver publicado, instale com:
+Instale com:
 
 ```bash
 npx skills add NewtonAlves/Grande-Sabio-Skill
@@ -56,6 +56,18 @@ Ela ajuda em:
 | Publicação textual | ajuda com sinopse, apresentação, prólogo, epílogo e quarta capa |
 | Audiolivro | ajusta ritmo oral, pausas, fôlego e pronúncia |
 | Memória local | preserva decisões, continuidade, personagens, mundo e progresso |
+
+## Rigor Editorial
+
+A **Grande Sabio** foi pensada para não tratar texto como peça solta. Ela observa o que uma alteração muda no restante da obra, separa problema estrutural de problema de frase e evita polir superfície quando a base narrativa ainda precisa de ajuste.
+
+Na prática, isso significa:
+
+- revisar obras longas com atenção a efeitos em cascata;
+- diagnosticar frase, ritmo e voz sem apagar a intenção do autor;
+- avaliar premissa pela promessa de leitura, não apenas pelo cenário;
+- manter gênero principal e gêneros secundários em equilíbrio;
+- combater clichês pela função narrativa, não só trocando aparência.
 
 ## Modos De Trabalho
 
@@ -173,4 +185,3 @@ Quando houver dúvida real sobre português brasileiro, a skill orienta consulta
 Criada por **Newton Alves**.
 
 GitHub: [github.com/NewtonAlves](https://github.com/NewtonAlves)
-
